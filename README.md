@@ -33,7 +33,7 @@ Durante el desarrollo de esta página se observaron varias ventajas de utilizar 
 
 1. *Clona el repositorio desde GitHub* :
    bash
-   [git clone https://github.com/usuario/URL_DEL_REPOSITORIO.git]((https://github.com/pipeeex/ingWee))
+   [git clone https://github.com/usuario/URL_DEL_REPOSITORIO.git](https://github.com/pipeeex/ingWee)
    
 
 2. *Navega al directorio del proyecto*:
@@ -50,3 +50,4 @@ Durante el desarrollo de esta página se observaron varias ventajas de utilizar 
 *Thomas Sanmiguel Garcia*  
 *Juan Felipe Villaquiran*  
 tsanmiguel05@gmail.com
+juanpipevillaquiran@gmail.com
